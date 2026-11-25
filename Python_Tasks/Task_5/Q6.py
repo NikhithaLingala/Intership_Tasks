@@ -1,4 +1,3 @@
-```python
 # Python Task 06
 # Q6. Average
 # HackerRank: Mean, Median, and Mode
