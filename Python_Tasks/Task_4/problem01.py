@@ -4,7 +4,6 @@
 # https://www.hackerrank.com/challenges/py-if-else/problem
 
 n = int(input())
-
 if n % 2 != 0:
     print("Weird")
 elif 2 <= n <= 5:
